@@ -80,3 +80,17 @@ body{
     font-family: sans-serif;
     line-height: 1.6;    
 }
+.ul1{
+    list-style-type: circle;
+}
+.div2{
+    font-size: 17px;
+    color: black;
+    font-family: Comic Sans MS, Comic Sans, cursive	;
+}
+.li1_1{
+    list-style-type: disc;
+}
+.li1_2{
+    list-style-type: circle;
+}
